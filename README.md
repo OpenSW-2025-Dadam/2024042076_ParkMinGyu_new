@@ -1,2 +1,2 @@
-# 2024042076_ParkMinGyu_new
+# 2024042076_ParkMinGyu
 개인 과제 저장용 리포지토리
